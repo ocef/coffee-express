@@ -2108,14 +2108,24 @@
       "resolved": "https://registry.npmjs.org/strong-data-uri/-/strong-data-uri-1.0.3.tgz"
     },
     "stylus": {
-      "version": "0.43.1",
-      "from": "stylus@>=0.43.0 <0.44.0",
-      "resolved": "https://registry.npmjs.org/stylus/-/stylus-0.43.1.tgz",
+      "version": "0.52.4",
+      "from": "stylus@0.52.4",
+      "resolved": "https://registry.npmjs.org/stylus/-/stylus-0.52.4.tgz",
       "dependencies": {
         "css-parse": {
           "version": "1.7.0",
           "from": "css-parse@>=1.7.0 <1.8.0",
           "resolved": "https://registry.npmjs.org/css-parse/-/css-parse-1.7.0.tgz"
+        },
+        "mkdirp": {
+          "version": "0.5.1",
+          "from": "mkdirp@>=0.5.0 <0.6.0",
+          "resolved": "https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.1.tgz"
+        },
+        "source-map": {
+          "version": "0.1.43",
+          "from": "source-map@>=0.1.0 <0.2.0",
+          "resolved": "https://registry.npmjs.org/source-map/-/source-map-0.1.43.tgz"
         }
       }
     },

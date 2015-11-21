@@ -17,7 +17,7 @@
     "express": "4.13.x",
     "jade": "1.11.x",
     "connect-assets": "2.5.x",
-    "stylus": "0.43.x",
+    "stylus": "0.52.x",
     "nib": "0.9.x",
     "markdown": "0.4.0",
     "which": "1.0.5",
