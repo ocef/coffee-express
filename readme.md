@@ -1,5 +1,13 @@
 # Express Coffee Template 9 (1.9.0)
 
+  [![NPM Version][npm-image]][npm-url]
+  [![Linux Build][travis-image]][travis-url]
+
+[npm-image]: https://img.shields.io/npm/v/express.svg
+[npm-url]: https://npmjs.org/package/express
+[travis-image]: https://img.shields.io/travis/strongloop/express/master.svg?label=linux
+[travis-url]: https://travis-ci.org/pengkui/express-coffee
+
 This is a Node Express CoffeeScript Stack Template
 
 It comes ready to go with connect-assets that give you the option
