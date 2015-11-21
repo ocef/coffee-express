@@ -239,11 +239,6 @@
         }
       }
     },
-    "cliui": {
-      "version": "3.0.3",
-      "from": "cliui@>=3.0.3 <4.0.0",
-      "resolved": "https://registry.npmjs.org/cliui/-/cliui-3.0.3.tgz"
-    },
     "code-point-at": {
       "version": "1.0.0",
       "from": "code-point-at@>=1.0.0 <2.0.0",
@@ -956,7 +951,14 @@
     "mongodb": {
       "version": "1.4.38",
       "from": "mongodb@1.4.38",
-      "resolved": "https://registry.npmjs.org/mongodb/-/mongodb-1.4.38.tgz"
+      "resolved": "https://registry.npmjs.org/mongodb/-/mongodb-1.4.38.tgz",
+      "dependencies": {
+        "readable-stream": {
+          "version": "2.0.4",
+          "from": "readable-stream@latest",
+          "resolved": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.0.4.tgz"
+        }
+      }
     },
     "mongoose": {
       "version": "3.8.37",
@@ -1785,11 +1787,6 @@
       "from": "os-homedir@>=1.0.0 <2.0.0",
       "resolved": "https://registry.npmjs.org/os-homedir/-/os-homedir-1.0.1.tgz"
     },
-    "os-locale": {
-      "version": "1.4.0",
-      "from": "os-locale@>=1.4.0 <2.0.0",
-      "resolved": "https://registry.npmjs.org/os-locale/-/os-locale-1.4.0.tgz"
-    },
     "os-tmpdir": {
       "version": "1.0.1",
       "from": "os-tmpdir@>=1.0.0 <2.0.0",
@@ -2447,11 +2444,6 @@
       "version": "4.0.1",
       "from": "xtend@>=4.0.0 <5.0.0",
       "resolved": "https://registry.npmjs.org/xtend/-/xtend-4.0.1.tgz"
-    },
-    "y18n": {
-      "version": "3.2.0",
-      "from": "y18n@>=3.2.0 <4.0.0",
-      "resolved": "https://registry.npmjs.org/y18n/-/y18n-3.2.0.tgz"
     },
     "yargs": {
       "version": "3.10.0",
