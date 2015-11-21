@@ -307,19 +307,19 @@
       "resolved": "https://registry.npmjs.org/content-type/-/content-type-1.0.1.tgz"
     },
     "cookie": {
-      "version": "0.1.0",
-      "from": "cookie@0.1.0",
-      "resolved": "https://registry.npmjs.org/cookie/-/cookie-0.1.0.tgz"
+      "version": "0.2.2",
+      "from": "cookie@0.2.2",
+      "resolved": "https://registry.npmjs.org/cookie/-/cookie-0.2.2.tgz"
     },
     "cookie-parser": {
-      "version": "1.0.1",
-      "from": "cookie-parser@>=1.0.0 <1.1.0",
-      "resolved": "https://registry.npmjs.org/cookie-parser/-/cookie-parser-1.0.1.tgz"
+      "version": "1.4.0",
+      "from": "cookie-parser@1.4.0",
+      "resolved": "https://registry.npmjs.org/cookie-parser/-/cookie-parser-1.4.0.tgz"
     },
     "cookie-signature": {
-      "version": "1.0.3",
-      "from": "cookie-signature@1.0.3",
-      "resolved": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.3.tgz"
+      "version": "1.0.6",
+      "from": "cookie-signature@1.0.6",
+      "resolved": "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.6.tgz"
     },
     "cookiejar": {
       "version": "2.0.1",

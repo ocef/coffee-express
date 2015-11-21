@@ -24,7 +24,7 @@
     "mongoose": "4.2.x",
     "kerberos": "~0.0",
     "express-session": "1.5.x",
-    "cookie-parser": "1.0.x",
+    "cookie-parser": "1.4.x",
     "body-parser": "1.0.x",
     "wrench": "1.5.x"
   },
