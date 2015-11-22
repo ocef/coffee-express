@@ -15,4 +15,7 @@ addons:
     - gcc-4.8
     - g++-4.8
     - clang
-script: "cake test"
+before_install:
+  - "npm update"
+  - "npm run-script install"
+script: "npm run-script test"
