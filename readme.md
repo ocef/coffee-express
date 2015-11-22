@@ -2,8 +2,8 @@
 
   [![Linux Build][travis-image]][travis-url]
 
-[travis-image]: https://img.shields.io/travis/pengkui/express-coffee/master.svg?label=TravisCI
-[travis-url]: https://travis-ci.org/pengkui/express-coffee
+[travis-image]: https://img.shields.io/travis/ocef/express-coffee-skeleton/master.svg?label=TravisCI
+[travis-url]: https://travis-ci.org/ocef/express-coffee-skeleton
 
 This is a Node Express CoffeeScript Stack Template
 
