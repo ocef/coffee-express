@@ -1,9 +1,9 @@
-# Express Coffee Template 9 (1.9.0)
+# Express Coffee Template 0.1.0
 
   [![Linux Build][travis-image]][travis-url]
 
-[travis-image]: https://img.shields.io/travis/pengkui/express-coffee/master.svg?label=TravisCI
-[travis-url]: https://travis-ci.org/pengkui/express-coffee
+[travis-image]: https://img.shields.io/travis/pengkui/coffee-express/master.svg?label=TravisCI
+[travis-url]: https://travis-ci.org/pengkui/coffee-express
 
 This is a Node Express CoffeeScript Stack Template
 
