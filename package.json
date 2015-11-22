@@ -10,7 +10,7 @@
   "scripts": {
     "install": "node node_modules/coffee-script/bin/cake build",
     "start": "node server.js",
-    "test": "mocha --require should --compilers coffee:coffee-script/register --colors"
+    "test": "node_modules/.bin/mocha --require should --compilers coffee:coffee-script/register --colors"
   },
   "dependencies": {
     "coffee-script": "1.10.x",
@@ -27,7 +27,7 @@
     "wrench": "1.5.x"
   },
   "devDependencies": {
-    "mocha": "*",
+    "mocha": "2.3.4",
     "should": "*",
     "supertest": "*",
     "request": "*",
