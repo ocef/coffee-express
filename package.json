@@ -1,5 +1,5 @@
 { "name": "coffee-express"
-, "version": "0.1.2"
+, "version": "0.1.3"
 , "description": "A Template for NodeJs Application using Express, CoffeeScript, Jade, and Stylus."
 , "keywords":
   [ "express"
