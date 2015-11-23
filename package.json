@@ -1,5 +1,5 @@
 { "name": "coffee-express"
-, "version": "0.1.2"
+, "version": "0.1.4"
 , "description": "A Template for NodeJs Application using Express, CoffeeScript, Jade, and Stylus."
 , "keywords":
   [ "express"
@@ -41,8 +41,8 @@
   , "ejs": "*"
   }
 , "engines":
-  { "node": "4.2.x",
-    "npm": "3.4.x"
+  { "node": "4.2.x"
+  , "npm": "3.4.x"
   }
 , "contributors":
   [ "Tom Wilson <tom@jackhq.com> (http://github.com/twilson63)"
