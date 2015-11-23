@@ -1,4 +1,4 @@
-# Express Coffee Template 9 (1.9.0)
+# Express Coffee Template 0.1.0
 
   [![Linux Build][travis-image]][travis-url]
 
