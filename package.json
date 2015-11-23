@@ -1,6 +1,13 @@
 { "name": "coffee-express"
 , "version": "0.1.1"
 , "description": "A Template for NodeJs Application using Express, CoffeeScript, Jade, and Stylus."
+, "keywords":
+  [ "express"
+  , "coffee-script"
+  , "jade"
+  , "stylus"
+  , "nib"
+  ]
 , "repository": "pengkui/coffee-express"
 , "license": "MIT"
 , "scripts":
