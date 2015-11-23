@@ -1,7 +1,7 @@
 # Coffee Express Template
 
-  [![NPM Version][npm-image][npm-url]]
-  [![NPM Downloads][npm-downloads-image][npm-downloads-url]]
+  [![NPM Version][npm-image]][npm-url]
+  [![NPM Downloads][npm-downloads-image]][npm-downloads-url]
   [![Linux Build][travis-image]][travis-url]
 
 [npm-image]: https://img.shields.io/npm/v/coffee-express.svg
