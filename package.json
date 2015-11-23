@@ -41,8 +41,8 @@
   , "ejs": "*"
   }
 , "engines":
-  { "node": "4.2.x",
-    "npm": "3.4.x"
+  { "node": "4.2.x"
+  , "npm": "3.4.x"
   }
 , "contributors":
   [ "Tom Wilson <tom@jackhq.com> (http://github.com/twilson63)"
