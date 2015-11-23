@@ -1,6 +1,6 @@
 {
   "name": "coffee-express",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "dependencies": {
     "abbrev": {
       "version": "1.0.7",
