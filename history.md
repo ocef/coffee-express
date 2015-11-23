@@ -1,5 +1,7 @@
-# 0.1.0
+# 0.1.1
+- Reformatted package.json
 
+# 0.1.0
 - Removed MongDB and mongoose
 - Bumped package versions
 - Integrated with Travis CI
